@@ -1,4 +1,4 @@
-const socket = io("https://your-app-name.onrender.com");
+const socket = io("https://chat-tjqb.onrender.com");
 
 const msgInput = document.querySelector("#message");
 const nameInput = document.querySelector("#name");
